@@ -1,1 +1,1 @@
-# roll_together_backend
+Re:Roll Together Backend is the engine that powers the synchronization of the browser extension. Built with Node.js, it handles the real-time WebSocket connections, manages watch rooms, and processes state changes to ensure a seamless, low-latency playback experience across all connected clients.
